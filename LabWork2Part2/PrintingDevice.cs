@@ -91,7 +91,7 @@ namespace LabWork2Part2
             switch (PrintTechnology)
             {
                 case "laser": return "Standard 24 month warranty";
-                case "inkjet": return "Standard 12 month warranty";
+                case "inkjet": return "Standard 13 month warranty";
                 case "dotMatrix": return "Standard 36 month warranty";
                 default: return "Standard 12 month warranty";
             }

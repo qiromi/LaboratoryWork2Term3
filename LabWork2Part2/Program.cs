@@ -12,7 +12,7 @@ namespace LabWork2Part2
         {
             Technic technic = new Technic(
                 price: 299.99m,
-                name: "Universal Electronic Device",
+                name: "Electronic Device",
                 color: "Graphite",
                 productionYear: 2024,
                 weight: 2.5
@@ -29,7 +29,7 @@ namespace LabWork2Part2
                 weight: 0.47
             );
             Computer computer = new Computer(
-                processor: "Intel Core i7-13700K",
+                processor: "Intel Core i7-13500K",
                 ram: 32,
                 graphicsCard: "NVIDIA RTX 4070",
                 price: 1899.99m,
